@@ -3,4 +3,4 @@
 •	Used SQLite database for testing and PostgreSQL for production to store user information <br />
 •	Used HTML, CSS and Bootstrap for front end development
 
-![](Screenshot 2021-09-26 215020.png)
+![](Screenshot%202021-09-26%20215020.png)
